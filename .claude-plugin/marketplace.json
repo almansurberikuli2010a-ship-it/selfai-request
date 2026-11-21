@@ -1,0 +1,12 @@
+{
+  "name": "selfai",
+  "owner": { "name": "almansurberikuli2010a-ship-it" },
+  "plugins": [
+    {
+      "name": "selfai",
+      "source": "./",
+      "description": "selfai-request и selfai-prompt: задачи командой агентов без лишнего кода и мета-промпты по тому же принципу.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,8 +1,17 @@
 {
   "name": "selfai",
-  "version": "0.1.0",
-  "description": "Два скила, чтобы ИИ-агенты делали ровно то, что просили: selfai-request выполняет задачу командой агентов (делает, проверяет по факту, убирает лишнее) и останавливается, когда всё проходит; selfai-prompt делает такие же мета-промпты для другой работы.",
-  "author": { "name": "almansurberikuli2010a-ship-it" },
+  "version": "0.2.0",
+  "description": "Три скила: selfai-request выполняет задачу командой агентов (делает, проверяет по факту, убирает лишнее) и останавливается, когда всё проходит; selfai-prompt делает такие же мета-промпты для другой работы; obsidian-konspekt делает конспекты уроков для Obsidian только из фактов учебника.",
+  "author": {
+    "name": "almansurberikuli2010a-ship-it"
+  },
   "repository": "https://github.com/almansurberikuli2010a-ship-it/selfai-request",
-  "keywords": ["agents", "prompts", "over-engineering", "evaluation"]
+  "keywords": [
+    "agents",
+    "prompts",
+    "over-engineering",
+    "evaluation",
+    "obsidian",
+    "konspekt"
+  ]
 }
